@@ -14,7 +14,8 @@ const Navbar: React.FC = () => {
           alt="Company Logo"
           className="logo"
         />
-        <h1 className="company-name">JobTracker</h1>
+        <h1 className="company-name">Job
+          <br/>Tracker</h1>
       </div>
 
       <div className="navbar-links">

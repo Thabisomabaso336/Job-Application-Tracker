@@ -77,7 +77,6 @@ const Jobs: React.FC = () => {
 
   const handleApply = (e: React.FormEvent) => {
     e.preventDefault();
-    // Here you could send data to an API or email system
     console.log("Application Submitted:", {
       job: selectedJob?.role,
       name: applicantName,

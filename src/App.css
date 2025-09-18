@@ -89,7 +89,8 @@
 
 .company-name {
   font-size: 1.2rem;
-  font-weight: bold;
+font-weight: bolder;
+  color: #333;
 }
 
 .navbar-links {
@@ -119,7 +120,7 @@
 
 .user-icon {
   font-size: 1.8rem;
-  color: white;
+  color: rgb(255, 255, 255);
   transition: color 0.3s;
 }
 
